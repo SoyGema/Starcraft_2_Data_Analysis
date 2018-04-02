@@ -4,7 +4,7 @@ In this repository you might find
 The goal of this data exploration is to understand more about Starcraft II Gameplay
 Thourgh data in order to extract metrics that could identify good players from bad
 Ones, correlation and hierarchy of features in Starcraft II gameplay and visualizations
-That could add value to current personal #pysc2 
+That could add value to current personal #pysc2 research 
 
 Data visualization, including
 
