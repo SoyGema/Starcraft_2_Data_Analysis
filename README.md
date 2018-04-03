@@ -1,3 +1,9 @@
+
+[![GitHub issues](https://img.shields.io/github/issues/SoyGema/Starcraft_2_Data_Analysis.svg)](https://github.com/SoyGema/Startcraft_pysc2_minigames/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/forks/SoyGema/Starcraft_2_Data_Analysis.svg)](https://github.com/SoyGema/Startcraft_pysc2_minigames/blob/master/FORKS)
+[![GitHub issues](https://img.shields.io/github/stars/SoyGema/Starcraft_2_Data_Analysis.svg)](https://github.com/SoyGema/Startcraft_pysc2_minigames/blob/master/STARS)
+[![GitHub issues](https://img.shields.io/twitter/url/https/github.com/SoyGema/Starcraft_2_Data_Analysis.svg?style=social)](https://github.com/SoyGema/Startcraft_pysc2_minigames/blob/master/TWEET)
+
 # Starcraft II Data Analysis
 In this repository you might find 
 
