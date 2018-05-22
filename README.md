@@ -48,7 +48,7 @@ https://github.com/IBM/starcraft2-replay-analysis
 https://github.com/GraylinKim/sc2reader
 
 
-# Papers 
+## Papers 
 
 ## Predicting Win/Loss Records using Starcraft 2 Replay Data
 http://snap.stanford.edu/class/cs224w-2010/proj2010/31_final_project.pdf
@@ -62,5 +62,7 @@ https://arxiv.org/abs/1105.0755
 ## Master Maker : Understanding Gaming Skill through Practice and Habit from Gameplay Behavior
 http://thomas-zimmermann.com/publications/files/huang-topics-2017.pdf
 
-# DataSets
+## DataSets
 https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history/data
+
+kudos : Michael Park
