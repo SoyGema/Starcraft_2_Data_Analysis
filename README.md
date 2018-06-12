@@ -29,7 +29,6 @@ Data exploration, including models
 
 
 
-
 # Resources for analytics 
 
 ## MSC
@@ -40,7 +39,7 @@ https://github.com/wuhuikai/MSC
 
 http://ggtracker.com/landing_tour
 
-## STARCRAFT2 REPLAY ANALYSIS
+## Starcraft2 Replay Analysis
 
 https://github.com/IBM/starcraft2-replay-analysis
 
@@ -56,7 +55,7 @@ http://snap.stanford.edu/class/cs224w-2010/proj2010/31_final_project.pdf
 ## An Analysis on the Rush Strategies of the Real-Time Strategy Game StarCraft-II
 https://kaigi.org/jsai/webprogram/2017/pdf/446.pdf
 
-## Using Logistic Regression to Analyze the Balance of a Game: The Case of Starcraft II TM
+## Using Logistic Regression to Analyze the Balance of a Game: The case of StarCraft-II TM
 https://arxiv.org/abs/1105.0755
 
 ## Master Maker : Understanding Gaming Skill through Practice and Habit from Gameplay Behavior
