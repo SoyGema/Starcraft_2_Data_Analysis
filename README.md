@@ -25,7 +25,7 @@ Data visualization, including
 Data exploration, including models
  - PCA
  - KMeans Clustering
- - Multilayer perceptron
+ - Feedforward Network 
 
 
 
